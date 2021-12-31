@@ -1,0 +1,5 @@
+dex_import {
+	name: "mediatek-ims-base",
+	owner: "realme",
+	jars: ["mediatek-ims-base.jar"],
+}

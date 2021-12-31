@@ -1,0 +1,5 @@
+dex_import {
+	name: "mediatek-telecom-common",
+	owner: "realme",
+	jars: ["mediatek-telecom-common.jar"],
+}
