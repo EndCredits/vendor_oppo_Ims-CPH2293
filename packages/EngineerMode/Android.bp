@@ -1,6 +1,6 @@
 android_app_import {
 	name: "EngineerMode",
-	owner: "realme",
+	owner: "oppo",
 	apk: "EngineerMode.apk",
 	certificate: "platform",
 	dex_preopt: {

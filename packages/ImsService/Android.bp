@@ -1,6 +1,6 @@
 android_app_import {
 	name: "ImsService",
-	owner: "realme",
+	owner: "oppo",
 	apk: "ImsService.apk",
 	certificate: "platform",
 	dex_preopt: {

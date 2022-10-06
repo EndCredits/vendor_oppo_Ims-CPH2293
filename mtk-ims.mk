@@ -1,5 +1,5 @@
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/realme/IMS-RMX3031
+    vendor/oppo/IMS-CPH2293
 
 # Apps
 PRODUCT_PACKAGES += \
